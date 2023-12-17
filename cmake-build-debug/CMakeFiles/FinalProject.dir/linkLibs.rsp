@@ -1,0 +1,1 @@
+ -lopencv_core -lopencv_imgproc -lopencv_highgui -lopencv_imgcodecs -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 
